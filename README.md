@@ -1,3 +1,2 @@
-# name-into
-read a name you are 
-# SUPER MARIO ON A PS4
+![image](https://github.com/superthecat/name-into/assets/148200287/2289f32d-6d7c-42b5-b4ef-954f1b29ec43)
+
